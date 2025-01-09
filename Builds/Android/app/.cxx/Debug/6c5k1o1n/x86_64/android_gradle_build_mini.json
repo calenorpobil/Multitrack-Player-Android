@@ -1,0 +1,33 @@
+{
+  "buildFiles": [
+    "C:\\Users\\Carlos\\Documents\\Merlita\\Estudio\\Informatica\\JUCE\\Juan\\Builds\\Android\\app\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\Carlos\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+      "-C",
+      "C:\\Users\\Carlos\\Documents\\Merlita\\Estudio\\Informatica\\JUCE\\Juan\\Builds\\Android\\app\\.cxx\\Debug\\6c5k1o1n\\x86_64",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\Carlos\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+    "-C",
+    "C:\\Users\\Carlos\\Documents\\Merlita\\Estudio\\Informatica\\JUCE\\Juan\\Builds\\Android\\app\\.cxx\\Debug\\6c5k1o1n\\x86_64",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "juce_jni::@6890427a1f51a3e7e1df": {
+      "artifactName": "juce_jni",
+      "abi": "x86_64",
+      "output": "C:\\Users\\Carlos\\Documents\\Merlita\\Estudio\\Informatica\\JUCE\\Juan\\Builds\\Android\\app\\build\\intermediates\\cxx\\Debug\\6c5k1o1n\\obj\\x86_64\\libjuce_jni.so",
+      "runtimeFiles": []
+    },
+    "cpufeatures::@6890427a1f51a3e7e1df": {
+      "artifactName": "cpufeatures",
+      "abi": "x86_64",
+      "output": "C:\\Users\\Carlos\\Documents\\Merlita\\Estudio\\Informatica\\JUCE\\Juan\\Builds\\Android\\app\\.cxx\\Debug\\6c5k1o1n\\x86_64\\libcpufeatures.a",
+      "runtimeFiles": []
+    }
+  }
+}

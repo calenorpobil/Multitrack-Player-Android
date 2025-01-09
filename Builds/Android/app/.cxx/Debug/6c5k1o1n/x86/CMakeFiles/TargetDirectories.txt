@@ -1,0 +1,4 @@
+C:/Users/Carlos/Documents/Merlita/Estudio/Informatica/JUCE/Juan/Builds/Android/app/.cxx/Debug/6c5k1o1n/x86/CMakeFiles/cpufeatures.dir
+C:/Users/Carlos/Documents/Merlita/Estudio/Informatica/JUCE/Juan/Builds/Android/app/.cxx/Debug/6c5k1o1n/x86/CMakeFiles/juce_jni.dir
+C:/Users/Carlos/Documents/Merlita/Estudio/Informatica/JUCE/Juan/Builds/Android/app/.cxx/Debug/6c5k1o1n/x86/CMakeFiles/edit_cache.dir
+C:/Users/Carlos/Documents/Merlita/Estudio/Informatica/JUCE/Juan/Builds/Android/app/.cxx/Debug/6c5k1o1n/x86/CMakeFiles/rebuild_cache.dir

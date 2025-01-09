@@ -1,0 +1,18 @@
+# ninja log v5
+21	108	7581426324704260	CMakeFiles/juce_jni.dir/9835f7771edeaba10018013ac76ce9a6/Informatica/JUCE/Juan/JuceLibraryCode/include_juce_core_CompilationTime.cpp.o	7306f002859fd439
+1	710	7581426330658467	CMakeFiles/cpufeatures.dir/C_/Users/Carlos/AppData/Local/Android/Sdk/ndk/26.2.11394342/sources/android/cpufeatures/cpu-features.c.o	c3a577d6d287ec86
+712	2019	7581426339685605	libcpufeatures.a	4acb022fac8229c3
+17	9850	7581426421489200	CMakeFiles/juce_jni.dir/C_/Users/Carlos/Documents/Merlita/Estudio/Informatica/JUCE/Juan/JuceLibraryCode/include_juce_data_structures.cpp.o	3d3c3c22124782b8
+37	10661	7581426429532654	CMakeFiles/juce_jni.dir/C_/Users/Carlos/Documents/Merlita/Estudio/Informatica/JUCE/Juan/JuceLibraryCode/include_juce_events.cpp.o	6e334fbfd4ebca0a
+9856	11131	7581426434883863	CMakeFiles/juce_jni.dir/8b91052a6d12313d15129dba5fed5ce9/Estudio/Informatica/JUCE/Juan/JuceLibraryCode/include_juce_graphics_Sheenbidi.c.o	1c5107b36b023603
+14	13405	7581426457463697	CMakeFiles/juce_jni.dir/C_/Users/Carlos/Documents/Merlita/Estudio/Informatica/JUCE/Juan/Source/Main.cpp.o	e36d4d04527c7de0
+8	13510	7581426458493925	CMakeFiles/juce_jni.dir/C_/Users/Carlos/Documents/Merlita/Estudio/Informatica/JUCE/Juan/Source/MainComponent.cpp.o	db9c733e27201c05
+30	25490	7581426576759221	CMakeFiles/juce_jni.dir/C_/Users/Carlos/Documents/Merlita/Estudio/Informatica/JUCE/Juan/JuceLibraryCode/include_juce_graphics.cpp.o	10c7988fb48982d2
+27	26668	7581426588368225	CMakeFiles/juce_jni.dir/C_/Users/Carlos/Documents/Merlita/Estudio/Informatica/JUCE/Juan/JuceLibraryCode/include_juce_core.cpp.o	8717ad4bf67c8de0
+109	27113	7581426593103725	CMakeFiles/juce_jni.dir/9835f7771edeaba10018013ac76ce9a6/Informatica/JUCE/Juan/JuceLibraryCode/include_juce_graphics_Harfbuzz.cpp.o	3eb6e247470f9ff7
+2020	45715	7581426777461312	CMakeFiles/juce_jni.dir/C_/Users/Carlos/Documents/Merlita/Estudio/Informatica/JUCE/Juan/JuceLibraryCode/include_juce_gui_basics.cpp.o	2be16a232686869d
+45717	46235	7581426784865222	../../../../build/intermediates/cxx/Debug/6c5k1o1n/obj/x86_64/libjuce_jni.so	fec868e2f034911c
+35	5166	7581436547737347	CMakeFiles/juce_jni.dir/C_/Users/Carlos/Documents/Merlita/Estudio/Informatica/JUCE/Juan/Source/Main.cpp.o	e36d4d04527c7de0
+5167	5644	7581436551447137	../../../../build/intermediates/cxx/Debug/6c5k1o1n/obj/x86_64/libjuce_jni.so	fec868e2f034911c
+21	4889	7581436877445613	CMakeFiles/juce_jni.dir/C_/Users/Carlos/Documents/Merlita/Estudio/Informatica/JUCE/Juan/Source/Main.cpp.o	e36d4d04527c7de0
+4890	5368	7581436881189517	../../../../build/intermediates/cxx/Debug/6c5k1o1n/obj/x86_64/libjuce_jni.so	fec868e2f034911c
